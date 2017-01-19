@@ -1,0 +1,25 @@
+{
+  "name": "user",
+  "base": "User",
+  "idInjection": true,
+  "options": {
+    "validateUpsert": true
+  },
+  "properties": {
+    "name": {
+      "type": "String"
+    },
+    "routes": {
+      "type": "array"
+    }
+  },
+  "validations": [],
+  "relations": {},
+  "acls": [{
+    "accessType": "*",
+    "principalType": "ROLE",
+    "principalId": "admin",
+    "permission": "ALLOW"
+  }],
+  "methods": {}
+}

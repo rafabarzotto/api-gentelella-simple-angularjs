@@ -1,0 +1,25 @@
+
+{
+   "email": "rafabarzotto@hotmail.com",
+   "password": "qwe123"
+}
+
+{
+   "email": "rafabarzotto@hotmail.com",
+   "password": "qwe123",
+   "username": "Rafael Barzotto"
+}
+
+
+  {
+    "realm": "string",
+    "username": "string",
+    "credentials": {},
+    "challenges": {},
+    "email": "string",
+    "emailVerified": true,
+    "status": "string",
+    "created": "2017-01-12",
+    "lastUpdated": "2017-01-12",
+    "id": "string"
+  }
