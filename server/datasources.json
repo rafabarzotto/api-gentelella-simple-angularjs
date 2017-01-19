@@ -2,11 +2,11 @@
   "mongo": {
     "host": "localhost",
     "port": 27017,
-    "url": "mongodb://admin:ADFrzl23516@localhost:27017/teste",
+    "url": "mongodb://mongodb120591-env-7653969.jelasticlw.com.br:27017/teste",
     "database": "teste",
-    "password": "ADFrzl23516",
+    "password": "",
     "name": "mongo",
-    "user": "admin",
+    "user": "",
     "connector": "mongodb"
   }
 }
