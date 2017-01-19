@@ -2,11 +2,11 @@
   "mongo": {
     "host": "localhost",
     "port": 27017,
-    "url": "mongodb://localhost:27017/teste",
+    "url": "mongodb://admin:ADFrzl23516@localhost:27017/teste",
     "database": "teste",
-    "password": "",
+    "password": "ADFrzl23516",
     "name": "mongo",
-    "user": "",
+    "user": "admin",
     "connector": "mongodb"
   }
 }
